@@ -25,7 +25,7 @@ let num = Math.random();
 ```
 
 
-![alt text](https://www.unoceandecroisieres.com/uploads/media/4_3/02/1492-Destinations%20Croisie%CC%80res%20Fakarawa.jpg?v=1-0)
+![alt text](https://github.com/JuliaRamarokoto/Learning-Github/blob/main/218101541_842504850035303_7147695876256104889_n.jpg)
 
 
 Some paragraphe with text
